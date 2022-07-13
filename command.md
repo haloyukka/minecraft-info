@@ -21,3 +21,7 @@
 ```
 /give @p minecraft:diamond_hoe{Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}
 ```
+
+|Command|Detail|
+|---|---|
+|/list|サーバーの参加者リストの表示|
