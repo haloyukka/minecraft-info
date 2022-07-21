@@ -1,4 +1,8 @@
 ```
+/give @p minecraft:bow{Enchantments:[{id:unbreaking,lvl:3},{id:power,lvl:5},{id:flame,lvl:1},{id:mending,lvl:1}]}
+```
+
+```
 /give @p minecraft:diamond_sword{Enchantments:[{id:sharpness,lvl:5},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}
 ```
 
