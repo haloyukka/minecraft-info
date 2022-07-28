@@ -46,3 +46,4 @@
 |Command|Detail|
 |---|---|
 |/list|サーバーの参加者リストの表示|
+|/gamemode creative <<player name>>|ゲームモード変更|
